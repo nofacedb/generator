@@ -1,0 +1,79 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "31iiApVzJDI2QAQt73Q4Yw1bVOY=",
+			"path": "github.com/kshvakov/clickhouse",
+			"revision": "04847609e9ba2f114bdd435bc78e6c816a4ef5c1",
+			"revisionTime": "2019-04-24T20:02:02Z"
+		},
+		{
+			"checksumSHA1": "f9vKXNe4BAsTz8Vh1mLRJ++T68Q=",
+			"path": "github.com/kshvakov/clickhouse/lib/binary",
+			"revision": "04847609e9ba2f114bdd435bc78e6c816a4ef5c1",
+			"revisionTime": "2019-04-24T20:02:02Z"
+		},
+		{
+			"checksumSHA1": "IEFIMD9e65ASRnnI4pAvmu4s3f8=",
+			"path": "github.com/kshvakov/clickhouse/lib/cityhash102",
+			"revision": "04847609e9ba2f114bdd435bc78e6c816a4ef5c1",
+			"revisionTime": "2019-04-24T20:02:02Z"
+		},
+		{
+			"checksumSHA1": "yM0+lmkC/USyRH3S52jopWTGBXI=",
+			"path": "github.com/kshvakov/clickhouse/lib/column",
+			"revision": "04847609e9ba2f114bdd435bc78e6c816a4ef5c1",
+			"revisionTime": "2019-04-24T20:02:02Z"
+		},
+		{
+			"checksumSHA1": "conHp3H3mGPmLhEdgEMKyfkoF+M=",
+			"path": "github.com/kshvakov/clickhouse/lib/data",
+			"revision": "04847609e9ba2f114bdd435bc78e6c816a4ef5c1",
+			"revisionTime": "2019-04-24T20:02:02Z"
+		},
+		{
+			"checksumSHA1": "KU4wHwqDVamUoKaZbrAtrzcKx40=",
+			"path": "github.com/kshvakov/clickhouse/lib/leakypool",
+			"revision": "04847609e9ba2f114bdd435bc78e6c816a4ef5c1",
+			"revisionTime": "2019-04-24T20:02:02Z"
+		},
+		{
+			"checksumSHA1": "5jrXVi2ZcS+qO/zsR4/69UrTyx8=",
+			"path": "github.com/kshvakov/clickhouse/lib/lz4",
+			"revision": "04847609e9ba2f114bdd435bc78e6c816a4ef5c1",
+			"revisionTime": "2019-04-24T20:02:02Z"
+		},
+		{
+			"checksumSHA1": "ufET0wbq25geHjZiCY3tu4FlLeU=",
+			"path": "github.com/kshvakov/clickhouse/lib/protocol",
+			"revision": "04847609e9ba2f114bdd435bc78e6c816a4ef5c1",
+			"revisionTime": "2019-04-24T20:02:02Z"
+		},
+		{
+			"checksumSHA1": "+aCdQkkX247xDx4yf4Dkx9/ww94=",
+			"path": "github.com/kshvakov/clickhouse/lib/types",
+			"revision": "04847609e9ba2f114bdd435bc78e6c816a4ef5c1",
+			"revisionTime": "2019-04-24T20:02:02Z"
+		},
+		{
+			"checksumSHA1": "Ol98vQb9WYi1dbpBfaFnnato7JU=",
+			"path": "github.com/kshvakov/clickhouse/lib/writebuffer",
+			"revision": "04847609e9ba2f114bdd435bc78e6c816a4ef5c1",
+			"revisionTime": "2019-04-24T20:02:02Z"
+		},
+		{
+			"checksumSHA1": "0H/VjT8w1CB702qWpbYMqr65Mf0=",
+			"path": "github.com/pkg/errors",
+			"revision": "ffb6e22f01932bf7ac35e0bad9be11f01d1c8685",
+			"revisionTime": "2019-01-09T06:16:28Z"
+		},
+		{
+			"checksumSHA1": "Tutue3nEgM/87jitUcYv6ODwyNE=",
+			"path": "github.com/satori/go.uuid",
+			"revision": "b2ce2384e17bbe0c6d34077efa39dbab3e09123b",
+			"revisionTime": "2018-10-28T12:50:25Z"
+		}
+	],
+	"rootPath": "github.com/nofacedb/generator"
+}

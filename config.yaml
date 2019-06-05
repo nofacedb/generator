@@ -1,0 +1,14 @@
+storage:
+  addr: "127.0.0.1"
+  port: 9000
+  user: "default"
+  passwd: "123456"
+  max_pings: 16
+  default_db: "facedb"
+  write_timeout_ms: 10000
+  read_timeout_ms:  10000
+  debug: false
+
+generator:
+  n: 200
+  in_iter: 200
